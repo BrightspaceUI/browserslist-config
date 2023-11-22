@@ -1,6 +1,6 @@
 {
   "name": "@brightspace-ui/browserslist-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Shareable browserslist configuration for D2L applications",
   "main": "index.js",
   "publishConfig": {

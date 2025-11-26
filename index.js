@@ -1,10 +1,10 @@
 module.exports = [
 	'last 2 versions',
-	'Chrome >= 67',
-	'Edge >= 79',
-	'Firefox >= 67',
-	'Safari >= 12',
-	'ios_saf >= 12',
+	'Chrome >= 81',
+	'Edge >= 81',
+	'Firefox >= 74',
+	'Safari >= 14',
+	'ios_saf >= 14',
 	'not ie 11',
 	'not dead'
 ];

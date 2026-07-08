@@ -4,7 +4,8 @@
   "description": "Shareable browserslist configuration for D2L applications",
   "main": "index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "files": [
     "index.js"
